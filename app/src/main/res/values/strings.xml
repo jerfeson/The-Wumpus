@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Wumpus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">The Wumpus</string>
+    <string name="newGame">Novo jogo</string>
+</resources>
